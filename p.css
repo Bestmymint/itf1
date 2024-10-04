@@ -1,0 +1,30 @@
+.nav{
+    width: auto;
+    height: 50px;
+    background-color: blanchedalmond;
+}
+.txtnav{
+    text-align: center;
+}
+.content{
+    margin: 30px
+}
+.but{
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
+img{
+    width: 200px;
+    height: auto;
+    border-style: solid;
+    border-color: hsla(46, 71%, 48%, 0.3);
+    border-radius: 100px;
+}
+.footer{
+    width: auto;
+    background-color: rgb(221, 149, 41);
+}
+.txtfoot{
+    text-align: center;
+}
